@@ -10,12 +10,12 @@ Pack Your Bags is an open-source project; we welcome you to explore its codebase
 
 <div align="center">
   <br />
-  <a href="http://127.0.0.1:5501/index.html"><strong>➥ Live Demo</strong></a>
+  <a href="https://ayush-srivastav-pack-your-bags.netlify.app/"><strong>➥ Live Demo</strong></a>
 </div>
 
 ## Screeshot
 
-![Tourest Desktop Demo](./Pack-Your-Bags.png.png "Desktop Demo")
+![Tourest Desktop Demo](./Pack-Your-Bags.png "Desktop Demo")
 
 ## Tools Required
 All you need is a text editor of your preference. No complex installations or software configurations are necessary.
