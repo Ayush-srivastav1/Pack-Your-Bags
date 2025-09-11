@@ -15,7 +15,7 @@ Pack Your Bags is an open-source project; we welcome you to explore its codebase
 
 ## Screeshot
 
-![Tourest Desktop Demo](./Pack-Your-Bags.png "Desktop Demo")
+![Tourest Desktop Demo](./Pack-Your-Bags.png.png "Desktop Demo")
 
 ## Tools Required
 All you need is a text editor of your preference. No complex installations or software configurations are necessary.
